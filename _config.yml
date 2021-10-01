@@ -2,8 +2,8 @@
 title:               CATRIN
 tagline:             'Controllable, Accountable, Transparent: the Responsible Internet'
 description:         'This website serves as the face of NWO funded CATRIN project.'
-url:                 https://abhishta91.github.io/CATRIN
-#baseurl:             ''
+#url:                 https://abhishta91.github.io/CATRIN
+baseurl:             ''
 #paginate:           5
 permalink:           pretty
 
