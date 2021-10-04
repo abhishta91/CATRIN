@@ -4,7 +4,7 @@ title: Work Packages
 ---
 
 <figure>
-  <img src="img/CATRIN-WP.png" alt="Work Packages" style="width:100%">
+  <img src="../img/CATRIN-WP.png" alt="Work Packages" style="width:100%">
   <figcaption>Fig.1 - Work Packages.</figcaption>
 </figure>
 
